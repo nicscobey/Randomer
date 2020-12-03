@@ -1,0 +1,2 @@
+# Randomer
+Random student generator
